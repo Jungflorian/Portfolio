@@ -5,23 +5,24 @@
   background-repeat: no-repeat;
   width: 100%;
   text-align: center;
-  padding: 20px;
+  padding-top: 20px;
+  height: 400px;
 }
 
 .header h1 {
   font-size: 4em;
-  margin: 0;
 }
 
 .header ul {
   list-style-type: none;
   padding: 0;
+  display: flex;
+  justify-content: flex-end;
 }
 
-.header li {
-  display: inline;
+.header li a {
   margin: 0 15px;
-  font-size: 2em;
+  font-size: 1.5em;
 }
 
 .Banniere{
@@ -30,3 +31,21 @@
   object-fit: cover;
 }
 
+.header a {
+  text-decoration: none;
+  color: black;
+  font-weight:bold;
+  font-size: 2em;
+}
+
+.cv-button {
+  padding: 10px;
+  border : 2px solid black;
+  border-radius: 25px;
+  font-size: 1.2em;
+}
+
+.cv-button:hover {
+  background-color: #e0e0e0;
+  transition: background-color 0.3s ease;
+}
