@@ -2,7 +2,7 @@ import '../CSS/Header.css';
 
 function Header() {
   return (
-    <div className="header">
+    <div section id="header" className="header">
       <ul>
         <li><a href="#presentation">Présentation</a></li>
         <li><a href="#competences">Compétences</a></li>

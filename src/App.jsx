@@ -1,14 +1,16 @@
 import Header from "./Pages/Header.jsx";
 import Footer from "./Pages/Footer.jsx";
 import Presentation from "./Pages/Presentation.jsx";
+import Competences from "./Pages/Competences.jsx";
+import './App.css';
 
 function App() {
   return (
     <div>
       <Header />
       <Presentation />
-      <Footer/>
-
+      <Competences />
+      <Footer />
     </div>
   );
 }

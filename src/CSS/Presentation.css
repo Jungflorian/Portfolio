@@ -1,4 +1,17 @@
-.fdp {
-    border-radius: 250px;
-    
+.pdp {
+    border-radius: 350px;
+    width: 350px;
+    height: 350px;
+}
+
+.presentation {
+    text-align: center;
+    margin: 20px;
+    padding-left: 500px;
+    padding-right: 500px;
+}
+
+.presentation h1 {
+    font-size: 2.5em;
+    text-decoration: underline;
 }
