@@ -10,7 +10,7 @@ function Header() {
         <li><a href="#contact">Me contacter</a></li>
       </ul> 
       <h1>Mon portfolio </h1>
-      <a href="/cv.pdf" target="_blank" rel="noopener noreferrer" className="cv-button">
+      <a href="/Portfolio/cv.pdf"target="_blank" rel="noopener noreferrer" className="cv-button">
         Voir mon CV
       </a>
     </div>
