@@ -46,7 +46,13 @@
   font-size: 1.2em;
 }
 
-.cv-button:hover {
-  background-color: #c4c4c4;
-  transition: background-color 0.5s ease;
+
+.cv-button a:hover {
+  color: #ffffff;
+  transition: color 0.5s ease;
+}
+
+.header a:hover {
+  color: #007BFF;
+  transition: color 0.5s ease;
 }

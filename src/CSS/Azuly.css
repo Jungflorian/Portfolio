@@ -1,0 +1,16 @@
+.azuly-preview {
+  width: 66%;
+  margin: 0 auto;
+}
+
+.azuly-preview iframe {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  height: 500px;
+  border-radius: 25px;
+}
+
+.azuly-preview h2 {
+  text-align: center;
+}

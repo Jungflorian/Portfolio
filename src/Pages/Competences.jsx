@@ -25,8 +25,7 @@ function Competences() {
                     <ul>
                         <li>Node.js</li>
                         <li>Express</li>
-                        <li>MongoDB</li>
-                        <li>Git</li>
+                        
                     </ul>
                 </div>
                 <div className='Base-de-donnees'>
@@ -38,9 +37,11 @@ function Competences() {
                 </div>
                 <div className='Autres'>
                     <img src={Autreslogo} alt="Autres Logo" />
+                    <h2>Autres</h2>
                     <ul>
                         <li>Figma</li>
                         <li>UI/UX Design</li>
+                        <li>Git</li>
                     </ul>
                 </div>
             </div>

@@ -1,0 +1,12 @@
+.projet {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.projets{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

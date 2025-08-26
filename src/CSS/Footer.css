@@ -16,3 +16,7 @@
 .footer ul a {
     color: black;
 }
+
+.footer ul a:hover {
+    color: #007BFF;
+}

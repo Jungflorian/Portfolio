@@ -1,0 +1,21 @@
+.booki-preview h2 {
+    text-align: center;
+}
+
+.booki-preview iframe {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    height: 500px;
+    border-radius: 25px;
+}
+
+.booki-preview {
+    width: 66%;
+    margin: 0 auto;
+}
+
+.booki-container {
+    width: 50%;
+    margin: 0 auto;
+}

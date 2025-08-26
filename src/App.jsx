@@ -2,6 +2,9 @@ import Header from "./Pages/Header.jsx";
 import Footer from "./Pages/Footer.jsx";
 import Presentation from "./Pages/Presentation.jsx";
 import Competences from "./Pages/Competences.jsx";
+import Mesprojets from "./Pages/Projet.jsx";
+
+
 import './App.css';
 
 function App() {
@@ -10,6 +13,7 @@ function App() {
       <Header />
       <Presentation />
       <Competences />
+      <Mesprojets />
       <Footer />
     </div>
   );
