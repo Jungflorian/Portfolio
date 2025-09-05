@@ -31,3 +31,11 @@
 .competences ul {
     padding: 0;
 }
+
+@media (max-width: 768px) {
+    .comp {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+}
