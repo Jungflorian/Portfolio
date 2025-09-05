@@ -53,3 +53,8 @@
   background: linear-gradient(90deg, #0056b3 0%, #00a6d6 100%);
   transform: translateY(-2px) scale(1.03);
 }
+
+
+.contact h2 {
+  text-align: center;
+}
